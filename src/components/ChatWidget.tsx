@@ -33,6 +33,7 @@ export default function ChatWidget() {
     message: '',
   });
   const chatRef = useRef<HTMLDivElement>(null);
+  const timeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   useEffect(() => {
     const handleEscape = (e: KeyboardEvent) => {
@@ -45,6 +46,14 @@ export default function ChatWidget() {
   }, [isOpen]);
 
   useEffect(() => {
+    return () => {
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+      }
+    };
+  }, []);
+
+  useEffect(() => {
     if (isOpen && chatRef.current) {
       chatRef.current.focus();
     }
@@ -52,10 +61,11 @@ export default function ChatWidget() {
 
   const handleSend = () => {
     if (!input.trim()) return;
+    if (timeoutRef.current) clearTimeout(timeoutRef.current);
     const userMsg = { role: 'user', text: input };
     setMessages((prev) => [...prev, userMsg]);
     setInput('');
-    setTimeout(() => {
+    timeoutRef.current = setTimeout(() => {
       setMessages((prev) => [
         ...prev,
         {
@@ -68,7 +78,8 @@ export default function ChatWidget() {
 
   const handleFormSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    setTimeout(() => {
+    if (timeoutRef.current) clearTimeout(timeoutRef.current);
+    timeoutRef.current = setTimeout(() => {
       alert('Thank you for your inquiry. We will contact you shortly.');
       setFormData({ name: '', email: '', phone: '', service: '', message: '' });
     }, 500);

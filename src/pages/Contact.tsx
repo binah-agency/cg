@@ -5,6 +5,7 @@ import siteData from '@/data/site.json';
 
 export default function Contact() {
   const pageRef = useRef<HTMLElement>(null);
+  const timeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const [formData, setFormData] = useState({
     name: '',
     email: '',
@@ -14,6 +15,14 @@ export default function Contact() {
     message: '',
   });
   const [submitted, setSubmitted] = useState(false);
+
+  useEffect(() => {
+    return () => {
+      if (timeoutRef.current) {
+        clearTimeout(timeoutRef.current);
+      }
+    };
+  }, []);
 
   useEffect(() => {
     const page = pageRef.current;
@@ -44,7 +53,8 @@ export default function Contact() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     setSubmitted(true);
-    setTimeout(() => {
+    if (timeoutRef.current) clearTimeout(timeoutRef.current);
+    timeoutRef.current = setTimeout(() => {
       setFormData({
         name: '',
         email: '',
