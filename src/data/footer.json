@@ -1,0 +1,48 @@
+{
+  "columns": [
+    {
+      "title": "The Cuervo Group",
+      "items": [
+        { "type": "text", "content": "Seasoned Expertise in Commercial Real Estate" },
+        { "type": "text", "content": "Miami, Florida" }
+      ]
+    },
+    {
+      "title": "About",
+      "items": [
+        { "type": "link", "label": "Overview", "href": "/about" },
+        { "type": "link", "label": "Leadership", "href": "/about#leadership" },
+        { "type": "link", "label": "Community", "href": "/about#community" },
+        { "type": "link", "label": "Careers", "href": "/about#careers" },
+        { "type": "link", "label": "News", "href": "/about#news" }
+      ]
+    },
+    {
+      "title": "Services",
+      "items": [
+        { "type": "link", "label": "Investment", "href": "/investment" },
+        { "type": "link", "label": "Development", "href": "/development" },
+        { "type": "link", "label": "Management", "href": "/management" },
+        { "type": "link", "label": "Properties", "href": "/properties" }
+      ]
+    },
+    {
+      "title": "Quick Links",
+      "items": [
+        { "type": "link", "label": "Tenant Services", "href": "/management#tenant-services" },
+        { "type": "link", "label": "Client Login", "href": "https://tgcg.twa.rentmanager.com" },
+        { "type": "link", "label": "Contact", "href": "/contact" }
+      ]
+    },
+    {
+      "title": "Get in Touch",
+      "items": [
+        { "type": "social", "label": "Instagram", "href": "#", "icon": "Instagram" },
+        { "type": "social", "label": "Facebook", "href": "#", "icon": "Facebook" },
+        { "type": "social", "label": "YouTube", "href": "#", "icon": "Youtube" },
+        { "type": "social", "label": "Twitter", "href": "#", "icon": "Twitter" }
+      ]
+    }
+  ],
+  "copyright": "© 2015 Cuervo Group. All rights reserved."
+}

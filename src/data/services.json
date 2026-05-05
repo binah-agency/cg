@@ -1,0 +1,38 @@
+[
+  {
+    "id": "investment",
+    "title": "Investment",
+    "icon": "TrendingUp",
+    "tagline": "Intrinsic value in every acquisition",
+    "description": "CG acquires properties at favorable prices and adds value through creativity and effective management. We target distressed properties, cash-flowing assets, and strategic repositioning opportunities.",
+    "subServices": ["Acquisitions", "Dispositions", "Financing", "Advisory"],
+    "href": "/investment"
+  },
+  {
+    "id": "development",
+    "title": "Development",
+    "icon": "Building2",
+    "tagline": "High-profile projects throughout South Florida",
+    "description": "We have been responsible for many high-profile new development and renovation projects. Our capabilities include project management, construction management, design, entitlement, and sales.",
+    "subServices": ["Development Management", "Design & Entitlement", "Sales & Marketing", "Consulting", "Projects"],
+    "href": "/development"
+  },
+  {
+    "id": "management",
+    "title": "Management",
+    "icon": "KeyRound",
+    "tagline": "Maximize profits, minimize headaches",
+    "description": "We offer a full range of property management for commercial, residential, and industrial properties. Our mission is to maximize profits, minimize headaches, and have a positive impact on every property.",
+    "subServices": ["Property Management", "Leasing Services", "Association Management", "Asset Management", "REO & Receiverships", "Tenant Services"],
+    "href": "/management"
+  },
+  {
+    "id": "properties",
+    "title": "Properties",
+    "icon": "MapPin",
+    "tagline": "Commercial & Residential across South Florida",
+    "description": "Full brokerage services including commercial and residential listings, portfolio inventory, and advisory on acquisitions and dispositions across all property types.",
+    "subServices": ["Portfolio", "Brokerage", "Commercial Listings", "Residential Listings"],
+    "href": "/properties"
+  }
+]

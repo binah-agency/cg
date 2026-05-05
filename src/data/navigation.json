@@ -1,0 +1,55 @@
+[
+  {
+    "label": "About",
+    "href": "/about",
+    "children": [
+      { "label": "Overview", "href": "/about" },
+      { "label": "Leadership", "href": "/about#leadership" },
+      { "label": "Community", "href": "/about#community" },
+      { "label": "Careers", "href": "/about#careers" }
+    ]
+  },
+  {
+    "label": "Investment",
+    "href": "/investment",
+    "children": [
+      { "label": "Acquisitions", "href": "/investment#acquisitions" },
+      { "label": "Dispositions", "href": "/investment#dispositions" },
+      { "label": "Financing", "href": "/investment#financing" },
+      { "label": "Advisory", "href": "/investment#advisory" }
+    ]
+  },
+  {
+    "label": "Development",
+    "href": "/development",
+    "children": [
+      { "label": "Development Management", "href": "/development#management" },
+      { "label": "Design & Entitlement", "href": "/development#design" },
+      { "label": "Sales & Marketing", "href": "/development#sales" },
+      { "label": "Consulting", "href": "/development#consulting" }
+    ]
+  },
+  {
+    "label": "Management",
+    "href": "/management",
+    "children": [
+      { "label": "Property Management", "href": "/management#property" },
+      { "label": "Leasing Services", "href": "/management#leasing" },
+      { "label": "Asset Management", "href": "/management#asset" },
+      { "label": "REO & Receiverships", "href": "/management#reo" }
+    ]
+  },
+  {
+    "label": "Properties",
+    "href": "/properties",
+    "children": [
+      { "label": "Portfolio", "href": "/properties" },
+      { "label": "Commercial Listings", "href": "/properties#commercial" },
+      { "label": "Residential Listings", "href": "/properties#residential" }
+    ]
+  },
+  {
+    "label": "Contact",
+    "href": "/contact"
+  }
+]

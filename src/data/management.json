@@ -1,0 +1,65 @@
+{
+  "propertyManagement": {
+    "tagline": "We offer a full range of property management for commercial, residential, and industrial properties.",
+    "headline": "We take the hassle out of owning and managing investment properties.",
+    "description": "We focus on hiring quality property managers and maintaining superior relationships with owners and tenants. We utilize advanced property management software allowing for fiscal transparency.",
+    "services": [
+      "Create and maintain property budget, accounting, and financial reporting",
+      "Collect Rent and respond to bounced/NSF checks",
+      "Assess late fees, post notices, and manage eviction process when necessary",
+      "Respond to maintenance issues including emergencies",
+      "Schedule & oversee preventative maintenance work",
+      "Oversee contractor buildouts, renovations, and major replacements",
+      "Pre-screen vendors & contractors",
+      "Perform property visits and inspections",
+      "Procure property insurance",
+      "Tenant move-in and move-out, handling of security deposit"
+    ]
+  },
+  "leasing": {
+    "commercial": "As a professional real estate brokerage, we locate and secure tenants for retail, office, industrial, and creative use properties. We assess tenant mix, submarket demographics, and the latest market trends. The Cuervo Group excels at maximizing property values through leasing.",
+    "residential": "CG provides investors in residential real estate sophisticated leasing services to obtain quality tenants and quickly fill vacancies at top of market rents.",
+    "tenantRetention": "To maximize an asset's value, we aim to minimize vacancy and turnover by retaining existing tenants as long as possible.",
+    "screeningProcess": [
+      "Full application with detailed personal information and leasing history",
+      "Criminal, credit, and eviction history report on each adult occupant",
+      "Proof of income verification",
+      "Copy of identification of each adult occupant",
+      "Full evaluation before approval recommendation"
+    ],
+    "advertising": "We advertise and market properties using signage, MLS, CG website with SEO capabilities, and technology platforms including Rent Manager syndicated to multiple platforms."
+  },
+  "assetManagement": {
+    "tagline": "We provide asset management services across retail, multifamily, commercial, and industrial properties.",
+    "objective": "Helping our clients maximize the value of their real estate assets through revenue enhancement, operational efficiency, accounting management and service excellence.",
+    "services": [
+      "Designing and implementing property management programs",
+      "Managing environmental due diligence and remediation programs",
+      "Negotiating complex lease, sale, and purchase transactions, including 1031 tax-deferred exchange",
+      "Repositioning existing assets based on property age or changes in local market conditions",
+      "Providing comprehensive portfolio reviews",
+      "Collecting and disbursing income",
+      "Maintaining complete accounting and record-keeping data",
+      "Collaborating on long-range planning strategies"
+    ]
+  },
+  "reo": {
+    "tagline": "The Cuervo Group offers an extensive line of special asset services.",
+    "mission": "To become our clients' most trusted advisor by creating strategies and delivering solutions that enhance value.",
+    "description": "The CG Special Assets team offers cost effective, professional, independent management of court-ordered receiverships, problem assets and portfolios with customized, timely reporting.",
+    "disposition": "Our market knowledge, vast investor database and depth of experience enables CG to be a leading firm for sales of REO and distressed assets.",
+    "receivershipServices": [
+      "Possession and preservation of the asset",
+      "Full review of all contractual services",
+      "Management of all day-to-day operations",
+      "Proactive management to establish the confidence of tenants and others",
+      "Solicitation and management of contractors, vendors and third party agreements",
+      "Authorization, control and payment of payables",
+      "Recommendations for deferred maintenance and capital improvements",
+      "Monthly income and expense accounting",
+      "Reports tailored to the needs of the court and secured creditors",
+      "Asset disposition and real estate brokerage"
+    ],
+    "whyReceivership": "Receivership management can greatly reduce the lag time between taking ownership and selling a collateral asset, increasing chances of maximizing returns and minimizing risks connected with unpaid bills, liens, or tenant abuse."
+  }
+}

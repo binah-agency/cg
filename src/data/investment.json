@@ -1,0 +1,60 @@
+{
+  "hero": "We believe that all investments must have an intrinsic value proposition.",
+  "acquisitions": {
+    "tagline": "CG acquires properties at favorable prices and adds value through creativity and effective management.",
+    "targets": [
+      "Distressed properties and non-performing collateralized debt",
+      "Cash flowing properties priced at or below replacement cost",
+      "Strategic locations poised for future growth and appreciation",
+      "Properties ripe for repositioning through entitlement, redevelopment, or re-tenanting",
+      "Obtaining land and properties with substantial development potential"
+    ],
+    "strategy": "CG primarily targets properties with potential upside from rent acceleration, land appreciation, repositioning, or future development. CG's current acquisitions strategy includes development opportunities as CG offers a vertically integrated platform.",
+    "dueDiligence": [
+      "Analysis of the supply and demand dynamics in the market",
+      "Review of anticipated income, expenses and potential cost savings",
+      "Future cash flow analysis and pro forma modeling",
+      "Review of financial records, leases, and operating history of existing assets",
+      "Environmental review",
+      "Engineering inspection and survey review",
+      "Architectural Plans review",
+      "Title search and historic litigation history review",
+      "Regulatory compliance, land use, zoning, entitlement, and permit review",
+      "Financial structure and tax review",
+      "Insurance and liability review"
+    ]
+  },
+  "dispositions": {
+    "tagline": "We determine appropriate disposition strategies for investment properties.",
+    "factors": [
+      "Expected future performance of the property",
+      "Alternative investments available / Opportunity cost of holding",
+      "Refinancing alternatives to selling",
+      "Renovation as an alternative to selling",
+      "Tax implications of sale including potential changes to tax law",
+      "Interest rate forecasts and yield curve analysis",
+      "Availability of 1031 exchange",
+      "Diversification benefits",
+      "Asset liquidity"
+    ],
+    "strategy": "CG takes the position that a property should be sold when the marginal rate of return by holding falls below the rate at which the proceeds from sale can be reinvested in an alternative investment with similar risk profile."
+  },
+  "financing": {
+    "tagline": "We provide private financing through qualified lenders to entities and individuals primarily secured by mortgages on real estate assets.",
+    "description": "We generally look for higher yielding non-conventional and mezzanine debt opportunities to provide financing where traditional financing markets are not available to the borrower, including foreign national real estate investors."
+  },
+  "advisory": {
+    "tagline": "Our clients benefit from our company's integrated services, local resources and relationships, and proprietary information.",
+    "services": [
+      "In-depth market and property analysis",
+      "Asset acquisition and positioning strategy",
+      "Investment and feasibility analysis",
+      "Pro forma creation and property valuation",
+      "Skilled negotiations of contract terms and transactions",
+      "Lease contract and proposal preparation and review",
+      "Site tours and selections",
+      "Leasing plans and tenant mix analysis",
+      "Asset disposition strategy"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "The Cuervo Group",
+  "shortName": "CG",
+  "tagline": "Seasoned Expertise in Commercial Real Estate",
+  "description": "The Cuervo Group provides clients and partners with seasoned expertise in commercial and residential real estate investment, development, property management, sales, leasing, and marketing in South Florida.",
+  "location": "South Florida",
+  "leader": "Christina Cuervo",
+  "title": "Principal",
+  "leaderBio": "Led by principal Christina Cuervo, CG is comprised of proven South Florida real estate professionals. Christina devoted a large part of her career to community service through her role as assistant city manager of both the city of Miami and the city of Miami Beach.",
+  "mission": "Our mission is to maximize profits, minimize headaches, and have a positive impact on every property and community that we engage.",
+  "values": ["Integrity", "Hard Work", "Sophistication", "Trust", "Communication"],
+  "copyright": "© 2015 Cuervo Group. All rights reserved.",
+  "clientLogin": "https://tgcg.twa.rentmanager.com",
+  "social": {
+    "instagram": "#",
+    "facebook": "#",
+    "youtube": "#",
+    "twitter": "#"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "hero": "We have been responsible for many high-profile new development and renovation projects throughout South Florida.",
+  "management": {
+    "description": "Our development management capabilities include both project management and construction management. We have the experience to implement practical solutions to bring our clients' visions to fruition.",
+    "projectManagement": [
+      "Obtain approvals from and comply with all regulatory bodies",
+      "Ensure strong and creative marketing effort",
+      "Create effective sales and leasing strategy, target the right end users",
+      "Keep project on budget with proper accounting up to date",
+      "Ensure legal contracts and documents are created and executed properly",
+      "Limit liability through risk management and insurance procurement"
+    ],
+    "constructionManagement": [
+      "Obtain competitive bids from qualified contractors",
+      "Utilize construction contracts that protect owner",
+      "Budgeting, cost management, and reporting",
+      "Coordinate between contractors, architects, engineers, and inspectors",
+      "Obtain permits, lien releases, and other document management"
+    ]
+  },
+  "designEntitlement": {
+    "design": "We incorporate green building and smart growth concepts to design projects that relate to and improve upon the fabric of the surrounding built and natural environment. CG also incorporates value engineering principles to control capital costs.",
+    "entitlement": "CG provides the reputation and savvy counsel necessary to overcome complicated challenges across jurisdictions when it comes to permitting, zoning, and land use regulations. We are uniquely qualified to ensure clients receive the best legal and political resources."
+  },
+  "consulting": {
+    "tagline": "Through our years of experience, the team at CG has achieved unmatched expertise in virtually all aspects of real estate development.",
+    "expertise": [
+      "Residential Development", "Retail Development", "Mixed Use Development",
+      "Public Private Financing", "Land Planning", "Architecture",
+      "Construction Management", "Property Management", "Site Acquisition", "Entitlement"
+    ],
+    "approach": "CG's team analyzes client assets to ensure the highest and best use is implemented. CG advises clients on legislative and regulatory matters at federal, state, and local county and city municipalities."
+  }
+}
